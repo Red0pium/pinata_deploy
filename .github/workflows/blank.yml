@@ -12,8 +12,8 @@ jobs:
         with:
           pin-name: 'Mathys'
           path: './IPFS-command.png'
-          pinata-api-key: ${{ 839d055c2d354908846bY }}
-          pinata-secret-api-key: ${{ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI2Mzc2NGExNC1jNWNiLTQ2MTMtYmEyNi00NDM2YWUxNDJiMzMiLCJlbWFpbCI6Im1hdGh5cy5icm9ubmVjQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfSx7ImlkIjoiTllDMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI4MzlkMDU1YzJkMzU0OTA4ODQ2YiIsInNjb3BlZEtleVNlY3JldCI6ImI4ZDhlYjU0ZjY2NGI4MTQ2ZmU1Y2M5YTUxZmU0Nzc4NDMwMjRjMzQxNTY1ZWU0MzY2YzgxODczMDdmYmJjM2IiLCJpYXQiOjE3MDcyMjYwMTN9.fJG7r0PGbTwLi48-LyALcY7bYGRcwvMJu5vM_D9jABo }}
+          pinata-api-key: ${{ '839d055c2d354908846bY' }}
+          pinata-secret-api-key: ${{ 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI2Mzc2NGExNC1jNWNiLTQ2MTMtYmEyNi00NDM2YWUxNDJiMzMiLCJlbWFpbCI6Im1hdGh5cy5icm9ubmVjQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfSx7ImlkIjoiTllDMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI4MzlkMDU1YzJkMzU0OTA4ODQ2YiIsInNjb3BlZEtleVNlY3JldCI6ImI4ZDhlYjU0ZjY2NGI4MTQ2ZmU1Y2M5YTUxZmU0Nzc4NDMwMjRjMzQxNTY1ZWU0MzY2YzgxODczMDdmYmJjM2IiLCJpYXQiOjE3MDcyMjYwMTN9.fJG7r0PGbTwLi48-LyALcY7bYGRcwvMJu5vM_D9jABo' }}
           verbose: true
           remove-old: true
       # Use the output from the `deploy` step
